@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="C:\Users\alumno\desarrolloweb\CSS\cvjulian.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+    <title>CVJulian</title>
+    <link rel="icon" type="image/x-icon" href="https://t3.ftcdn.net/jpg/05/29/15/84/240_F_529158419_ByDIuI78FZqbT6veLGp9mBeCXX9WxJiO.jpg">
+</head>
+
+    <body>
+    
+        <div class="grid-container">
+        <div class="item4"><img src="https://randomuser.me/api/portraits/men/85.jpg"
+            alt="Foto carnet" height="350" width="350">
+        </div> 
+        <div class="item1"> 
+          <h1>Julián Zabala</h1>
+          <h2>Programador Web</h2>
+        </div>
+  
+    
+        <div  class="item2"><h3>PERFIL PROFESIONAL</h3>
+            <p>Desarrollador web proactivo, innovador y con capacidades para desarrollar páginas web y aplicaciones móviles 
+              modernas y vistosas.Especializado en javascript,html y css.
+            </P>
+           <h5>Informacion de contacto:</h5>
+           <p id="cel">Celular</p>
+    <button type="button" id="boton" >TOCA AQUI
+    </button><script src="C:\Users\alumno\desarrolloweb\function.js"> </script>
+     
+    <p id="Direccion">Direccion</p>
+    <button type="button" id="botdir"> TOCA AQUI</button>
+    </button><script src="C:\Users\alumno\desarrolloweb\function.js"> </script>
+
+     <p id="Email">Email</p>
+     <button type="button" id="botmail">TOCA AQUI</button>
+    </button><script src="C:\Users\alumno\desarrolloweb\function.js"> </script>
+
+
+        </div>
+
+        <div class="item3">
+            <section>
+            <h4>EXPERIENCIA PROFESIONAL</h4>
+            <P> Desarrollador front-end 
+              Ene 2015 -Actual
+              Lorem ipsum dolor siéntate amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. 
+              Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.
+          
+             <p>Desarrollador Web / algo.com
+              marzo 2012 - diciembre 2014
+              Consectetur adipisicing elit. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic.
+              Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.</p> 
+          
+             <p>Diseñador gráfico / designsomething.com
+              junio de 2010 - marzo de 2012
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit.</P>
+          <!--TEXTO COPIADO-->
+              <h5>FORMACION ACADEMICA</h5>
+              <P>Egresado de Argentina programa 4.0</P> 
+          
+              
+              </section>
+            </div
