@@ -26,7 +26,7 @@
             <p>Desarrollador web proactivo, innovador y con capacidades para desarrollar páginas web y aplicaciones móviles 
               modernas y vistosas.Especializado en javascript,html y css.
             </P>
-           <h5>Informacion de contacto:</h5>
+           <h5>INFORMACION DE CONTACTO:</h5>
            <p id="cel">Celular</p>
     <button type="button" id="boton" >TOCA AQUI
     </button><script src="C:\Users\alumno\desarrolloweb\function.js"> </script>
@@ -59,7 +59,7 @@
               junio de 2010 - marzo de 2012
               Lorem ipsum dolor sit amet, consectetur adipisicing elit.</P>
           <!--TEXTO COPIADO-->
-              <h5>FORMACION ACADEMICA</h5>
+              <h6>FORMACION ACADEMICA</h6>
               <P>Egresado de Argentina programa 4.0</P> 
           
               
